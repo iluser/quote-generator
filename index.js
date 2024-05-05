@@ -44,12 +44,12 @@ const loop = async () => {
 }
 
 const random = [
-    'Hindu',
-    'Buddha',
-    'Katolik',
-    'Protestan',
-    'Islam',
-    'Kristen'
+    'cinta',
+    'damai',
+    'boy candra',
+    'fiersa besari',
+    'tenang',
+    'belajar'
 ]
 
 
