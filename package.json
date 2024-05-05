@@ -4,5 +4,29 @@
     "fs": "^0.0.1-security",
     "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "quote-generator",
+  "description": "Quote Generator\r ==================",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iluser/quote-generator.git"
+  },
+  "keywords": [
+    "quote",
+    "jagokata",
+    "motivasi",
+    "generator"
+  ],
+  "author": "ILWAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iluser/quote-generator/issues"
+  },
+  "homepage": "https://github.com/iluser/quote-generator#readme"
 }
