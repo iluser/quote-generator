@@ -14,7 +14,9 @@ Untuk menggunakan project ini, Anda dapat menggunakan command line interface. Be
 
         npm install -g quotes-generator-jagokata
 
-2. Clone dari github git clone https://github.com/iluser/quotes-generator-jagokata
+2. Clone dari github 
+
+        git clone https://github.com/iluser/quotes-generator-jagokata
 
 3. Jalankan perintah berikut
 
