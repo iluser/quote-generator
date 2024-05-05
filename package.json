@@ -5,8 +5,8 @@
     "node-fetch": "^2.6.1",
     "readline-sync": "^1.4.10"
   },
-  "name": "quote-generator",
-  "description": "Quote Generator\r ==================",
+  "name": "quotes-generator-jagokata",
+  "description": "Quote Generator dari website jagokata\r ==================",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},

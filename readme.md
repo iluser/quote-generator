@@ -12,13 +12,13 @@ Untuk menggunakan project ini, Anda dapat menggunakan command line interface. Be
 
 1. Install project ini dengan menggunakan npm
 
-        npm install -g quote-generator
+        npm install -g quotes-generator-jagokata
 
-2. Clone dari github git clone https://github.com/iluser/quote-generator
+2. Clone dari github git clone https://github.com/iluser/quotes-generator-jagokata
 
 3. Jalankan perintah berikut
 
-        cd quote-generator
+        cd quotes-generator-jagokata
         node index.js
 
 4. Kata kata yang dihasilkan akan berada di file quote.txt
