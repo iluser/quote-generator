@@ -36,7 +36,8 @@ const loop = async () => {
         if (!quotex.status) throw new Error('Data tidak ditemukan');
         const txt = quotex.data.map(q => `“${q.quote}”\n\n- ${q.author}`).join('\n\n');
         await fs.promises.writeFile('quote.txt', txt);
-        console.log("Data tersimpan di file quote.txt");
+        console.log(txt)
+        // console.log("Data tersimpan di file quote.txt");
     } catch (err) {
         console.error("Terjadi kesalahan:", err.message);
     }
